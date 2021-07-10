@@ -7,7 +7,7 @@
             return $n * $n;
         }
 
-        protected $novoPolje = 'novo';
+        protected $novoPolje = 'nova izmena';
     }
 
 ?>
