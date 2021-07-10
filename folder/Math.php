@@ -6,6 +6,8 @@
         public function square($n){
             return $n * $n;
         }
+
+        protected $novoPolje = 'novo';
     }
 
 ?>
