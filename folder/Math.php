@@ -8,6 +8,7 @@
         }
 
         protected $novoPolje = 'nesto trece';
+        protected $n = 'trece';
     }
 
 ?>
